@@ -59,3 +59,4 @@ class Image
     [0,0,0,0]
    ])
    image.find_one(2)
+   
